@@ -1,2 +1,1 @@
-# CTDL
 # CTDL_GT
